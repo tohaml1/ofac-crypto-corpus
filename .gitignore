@@ -1,0 +1,4 @@
+screening_hits.csv
+__pycache__/
+.venv/
+.DS_Store
